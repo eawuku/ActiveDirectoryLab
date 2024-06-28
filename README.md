@@ -13,7 +13,7 @@ In this lab I created Active Directory home lab environment using oracle Virtual
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b>
 - <b>Server 2019</b> 
 
 <h2>Program walk-through:</h2>
@@ -141,5 +141,13 @@ Log in Using any one of names created using the PowerShell Script.: <br/>
 <br />
 <br />
 </p>
-
+<!--
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+--!>
 
