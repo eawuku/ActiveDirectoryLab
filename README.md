@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this lab I created Active Directory home lab environment using oracle Virtual Box. Configuring and runing this lab helped me develope an understanding of how active directory and windows works.
+In this lab I created Active Directory home lab environment using oracle Virtual Box. Configuring and runing this lab helped me develop an understanding of how Active Directory and Windows works.
 <br />
 
 
@@ -112,7 +112,7 @@ Write And Run A PowerShell script which will create 1000 users in AD: <br/>
 <br />
 <br />
 Create A Windows 10 VM on Virtual Box: <br/>
-<img src="https://imgur.com/f2deR3N.png" height="80%" width="80%" alt="Active Directory  Steps"/>
+<img src="https://imgur.com/Hauzxou.png" height="80%" width="80%" alt="Active Directory  Steps"/>
 <br />
 <br />
 <img src="https://imgur.com/3lGO2dG.png" height="80%" width="80%" alt="Active Directory  Steps"/>
