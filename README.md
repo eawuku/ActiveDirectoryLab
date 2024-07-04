@@ -20,7 +20,7 @@ In this lab I created Active Directory home lab environment using oracle Virtual
 
 <p align="center">
 Download Oracle Virtual Box: <br/>
-<img src="https://imgur.com/ZssjaeV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ZssjaeV.png" height="80%" width="80%" alt="Active Directory Step"/>
 <br />
 <br />
 Download windows 10 ISO: <br/>
@@ -35,7 +35,7 @@ Create A Virtual Machine For the Domain Controller: <br/>
 <img src="https://imgur.com/loli7ho.png" height="80%" width="80%" alt="Active Directory  Steps"/>
 <br />
 <br />
-Set Up IP Addressing:  <br/>
+Setup IP Addressing:  <br/>
 <img src="https://imgur.com/SGKIgXT.png" height="80%" width="80%" alt="Active Directory  Steps"/>
 <br />
 <br />
@@ -74,8 +74,8 @@ Install NAT To Allow Internal Users To Access The Internet Using One Address:  <
 <img src="https://imgur.com/4lXMz1e.png" height="80%" width="80%" alt="Active Directory  Steps"/>
 <br />
 <br />
-Set Up DHCP Server On The Domain Controller:  <br/>
-<img src="https://imgur.com/IxDZv7E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setup DHCP Server On The Domain Controller:  <br/>
+<img src="https://imgur.com/IxDZv7E.png" height="80%" width="80%" alt="Active Directory Step"/>
 <br />
 <br />
 Configure Server Options For Router:  <br/>
@@ -94,10 +94,10 @@ Configure DHCP Options:  <br/>
 <img src="https://imgur.com/whFqPX4.png" height="80%" width="80%" alt="Active Directory  Steps"/>
 <br />
 <br />
-<img src="https://imgur.com/MXF7ZDX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/MXF7ZDX.png" height="80%" width="80%" alt="Active Directory Step"/>
 <br />
 <br />
-<img src="https://imgur.com/6ZLAATX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/6ZLAATX.png" height="80%" width="80%" alt="Active Directory Step"/>
 <br />
 <br />
 Activate The Scope:  <br/>
@@ -119,7 +119,7 @@ Create A Windows 10 VM on Virtual Box: <br/>
 <br />
 <br />
 Test Connectivity: <br/>
-<img src="https://imgur.com/sBVSMPb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/sBVSMPb.png" height="80%" width="80%" alt="Active Directory Step"/>
 <br />
 <br />
 Rename the New VM and Join It To The Domain: <br/>
