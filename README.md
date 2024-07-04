@@ -28,6 +28,7 @@ Download windows 10 ISO: <br/>
 <br />
 <br />
 Download Server 2019 ISO: <br/>
+ <img src="https://imgur.com/2oELeH9.png" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
 <br />
 Create A Virtual Machine For the Domain Controller: <br/>
