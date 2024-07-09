@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this lab I created Active Directory home lab environment using oracle Virtual Box. Configuring and runing this lab helped me develop an understanding of how Active Directory and Windows works.
+In this project, I created Active Directory home lab environment using oracle Virtual Box. Configuring and runing this lab helped me develop an understanding of how Active Directory and Windows works.
 <br />
 
 
